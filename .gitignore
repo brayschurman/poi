@@ -1,0 +1,14 @@
+# Node modules
+/frontend-web/node_modules
+/frontend-mobile/node_modules
+
+# Composer vendor
+/backend/vendor
+
+# Environment files
+/backend/.env
+/frontend-web/.env
+/frontend-mobile/.env
+
+# System files
+.DS_Store
